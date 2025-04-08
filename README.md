@@ -9,9 +9,13 @@ This repo complements my [DataBites Substack newsletter](https://www.databites.t
 Each project in this repo is:
 
 ✅ Beginner-friendly and easy to follow
+
 🔍 Inspired by real-world data problems
+
 📎 Tied to a Substack article for added context and explanation
+
 📁 Organized by category: code-alongs, EDAs, and full projects
+
 
 ## **Simple Code Alongs** 👨🏻‍💻
 
